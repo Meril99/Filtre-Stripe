@@ -1,0 +1,35 @@
+.card-body {
+    text-align: center;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.text-info{
+    margin-top: 100px;
+}
+
+select{
+    width: 100%!important;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+
+#section1 {
+    height: 40px;
+}
+
+#section2 {
+    height: 40px;
+}
+
+#section3 {
+    height: 40px;
+}
+
+#filtre{
+    
+    background-color: #F8F8F8;
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
